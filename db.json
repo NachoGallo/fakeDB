@@ -27,7 +27,11 @@
           "imagen": "https://axont-certificacion.s3.us-east-2.amazonaws.com/posgrados/certificado_vacio_posgrados.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
-            { "nombre": "Amalia Ledesma" }
+            { "nombre": "Amalia Ledesma" },
+              { "nombre": "Prueba Uno" },
+              { "nombre": "Prueba Dos" },
+              { "nombre": "Prueba Tres" },
+              { "nombre": "Prueba Cuatro" }
           ],
           "titulo": "Neo Oratoria",
           "fecha": "26 de Diciembre de 2020",
