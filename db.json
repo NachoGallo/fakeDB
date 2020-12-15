@@ -6,7 +6,7 @@
         "error": "",
         "datos": {
           "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
-          "grupo": 5,
+          "grupo": 2,
           "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/posgrados/modelos/posgrado_cce.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
