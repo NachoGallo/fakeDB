@@ -6,8 +6,8 @@
         "error": "",
         "datos": {
           "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
-          "grupo": 2,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/posgrados/modelos/posgrado_cce.png",
+          "grupo": 5,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/posgrados/posgrado.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
@@ -24,8 +24,8 @@
         "error": "",
         "datos": {
           "texto": "Por haber completado satisfactoriamente el programa de 3 meses de duración con 24 hs de entrenamiento en un programa de Coaching Continue Education de ICF, con 12 CCEUs en Competencias Clave y 12 CCEUs en Desarrollo de Recursos.",
-          "grupo": 5,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/posgrados/modelos/posgrado.png",
+          "grupo": 0,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/Certificado+de+finalizaci%C3%B3n+de+estudio-01.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" }
           ],
@@ -36,12 +36,12 @@
       },
       {
         "titulo": "Certificado Coaching Jurídico",
-        "activo": 0,
+        "activo": 1,
         "error": "En nuestros registros figura que aún no entregaste el observado",
         "datos": {
           "texto": "Por haber completado satisfactoriamente el programa de 3 meses de duración con 24 hs de entrenamiento en un programa de Coaching Continue Education de ICF, con 12 CCEUs en Competencias Clave y 12 CCEUs en Desarrollo de Recursos.",
-          "grupo": 5,
-          "imagen": "https://axont-certificacion.s3.us-east-2.amazonaws.com/posgrados/certificado_vacio_posgrados.png",
+          "grupo": 2,
+          "imagen": "https://axont-certificacion.s3.us-east-2.amazonaws.com/cursos-cortos/Oratoria_moderna.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
@@ -58,7 +58,7 @@
         "datos": {
           "texto": "Por haber completado satisfactoriamente el programa de 3 meses de duración con 24 hs de entrenamiento en un programa de Coaching Continue Education de ICF, con 12 CCEUs en Competencias Clave y 12 CCEUs en Desarrollo de Recursos.",
           "grupo": 1,
-          "imagen": "https://axont-certificacion.s3.us-east-2.amazonaws.com/posgrados/certificado_vacio_posgrados.png",
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_182hs_COACH+LABORAL-01.jpg",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
@@ -67,6 +67,24 @@
           "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": null
         }
-      }
+      },
+        {
+        "titulo": "Certificado Coaching Ejecutivo",
+        "activo": 1,
+        "error": "",
+        "datos": {
+          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "grupo": 1,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_138+VACIO-01.png",
+          "profesores": [
+            { "nombre": "Oswaldo Vicente" },
+            { "nombre": "Amalia Ledesma" }
+          ],
+          "titulo": "Coaching Ejecutivo",
+          "fecha": "26 de Diciembre de 2020",
+          "nombreAlumno": "Christian Saavedra",
+          "documento": 42545587
+        }
+      },
     ]
   }
