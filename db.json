@@ -112,16 +112,16 @@
         "activo": 1,
         "error": "",
         "datos": {
-          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "texto": "Por la presente se hace constatar que el estudiante con el DNI 42685547 se encuentra cursando Coaching Ejecutivo en nuestra institución. Por lo cual queda corroborado aquí su participación en Axon Training para ser presentada a las autoridades que corresponda.",
           "grupo": 1,
           "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/certificado_alumno_regular.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
           ],
-          "titulo": "Coaching Ejecutivo",
           "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": "Christian Saavedra",
+          "tipoDocumento: " "DNI",
           "documento": 42545587
 }
         },
