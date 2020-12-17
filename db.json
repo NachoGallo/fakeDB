@@ -105,6 +105,7 @@
           "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": "Christian Saavedra",
           "documento": 42545587
+        }
         },
             {
         "titulo": "Alumno Regular",
@@ -122,6 +123,7 @@
           "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": "Christian Saavedra",
           "documento": 42545587
+}
         },
 {
         "titulo": "Certificado de aprobacion",
@@ -139,6 +141,7 @@
           "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": "Christian Saavedra",
           "documento": 42545587
+        }
         },
     {
         "titulo": "Finalizacion de estudios",
@@ -157,5 +160,6 @@
           "nombreAlumno": "Christian Saavedra",
           "documento": 42545587
         }
+}
     ]
   }
