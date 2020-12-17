@@ -130,7 +130,7 @@
         "activo": 1,
         "error": "",
         "datos": {
-          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "texto": "Por medio de la presenta nota, certificamos la finalización satisfactoria del 1° Cuatrimestre de la Carrera de Coaching  Ontológico por parte de: Ignacio Gallo con DNI N° 42655547 el 20 de Noviembre de 2020, quien ha cumplido con 32 horas de formación, y realizadas las instancias evaluativas correspondientes a dicho cuatrimestre de la Carrera de Coaching Ontológico.",
           "grupo": 1,
           "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/certificado_aprobado_etapa_1.png",
           "profesores": [
@@ -138,7 +138,6 @@
             { "nombre": "Amalia Ledesma" }
           ],
           "titulo": "Coaching Ejecutivo",
-          "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": "Christian Saavedra",
           "documento": 42545587
         }
@@ -156,7 +155,6 @@
             { "nombre": "Amalia Ledesma" }
           ],
           "titulo": "Coaching Ejecutivo",
-          "fecha": "26 de Diciembre de 2020",
           "nombreAlumno": "Christian Saavedra",
           "documento": 42545587
         }
