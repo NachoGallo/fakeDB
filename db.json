@@ -96,7 +96,7 @@
         "datos": {
           "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
           "grupo": 1,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/Certificado+de+finalizaci%C3%B3n+de+estudio-01.png",
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/certificado_pago.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
@@ -114,7 +114,7 @@
         "datos": {
           "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
           "grupo": 1,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/Certificado+de+finalizaci%C3%B3n+de+estudio-01.png",
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/certificado_alumno_regular.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
@@ -132,7 +132,7 @@
         "datos": {
           "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
           "grupo": 1,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/Certificado+de+finalizaci%C3%B3n+de+estudio-01.png",
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/certificado_aprobado_etapa_1.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
@@ -150,7 +150,7 @@
         "datos": {
           "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
           "grupo": 1,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/Certificado+de+finalizaci%C3%B3n+de+estudio-01.png",
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/Certificado%2Bde%2Bfinalizaci%C3%B3n%2Bde%2Bestudio-01.png",
           "profesores": [
             { "nombre": "Oswaldo Vicente" },
             { "nombre": "Amalia Ledesma" }
