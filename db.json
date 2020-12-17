@@ -86,5 +86,76 @@
           "documento": 42545587
         }
       }
+    ],
+    
+    constancias: [
+        {
+        "titulo": "Libre Deuda",
+        "activo": 1,
+        "error": "",
+        "datos": {
+          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "grupo": 1,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_138+VACIO-01.png",
+          "profesores": [
+            { "nombre": "Oswaldo Vicente" },
+            { "nombre": "Amalia Ledesma" }
+          ],
+          "titulo": "Coaching Ejecutivo",
+          "fecha": "26 de Diciembre de 2020",
+          "nombreAlumno": "Christian Saavedra",
+          "documento": 42545587
+        },
+            {
+        "titulo": "Alumno Regular",
+        "activo": 1,
+        "error": "",
+        "datos": {
+          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "grupo": 1,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_138+VACIO-01.png",
+          "profesores": [
+            { "nombre": "Oswaldo Vicente" },
+            { "nombre": "Amalia Ledesma" }
+          ],
+          "titulo": "Coaching Ejecutivo",
+          "fecha": "26 de Diciembre de 2020",
+          "nombreAlumno": "Christian Saavedra",
+          "documento": 42545587
+        },
+{
+        "titulo": "Certificado de aprobacion",
+        "activo": 1,
+        "error": "",
+        "datos": {
+          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "grupo": 1,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_138+VACIO-01.png",
+          "profesores": [
+            { "nombre": "Oswaldo Vicente" },
+            { "nombre": "Amalia Ledesma" }
+          ],
+          "titulo": "Coaching Ejecutivo",
+          "fecha": "26 de Diciembre de 2020",
+          "nombreAlumno": "Christian Saavedra",
+          "documento": 42545587
+        },
+    {
+        "titulo": "Finalizacion de estudios",
+        "activo": 0,
+        "error": "",
+        "datos": {
+          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
+          "grupo": 1,
+          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_138+VACIO-01.png",
+          "profesores": [
+            { "nombre": "Oswaldo Vicente" },
+            { "nombre": "Amalia Ledesma" }
+          ],
+          "titulo": "Coaching Ejecutivo",
+          "fecha": "26 de Diciembre de 2020",
+          "nombreAlumno": "Christian Saavedra",
+          "documento": 42545587
+        }
     ]
   }
