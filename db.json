@@ -105,10 +105,10 @@
         "activo": 1,
         "error": "",
         "datos": {
-          "texto": "Por la presente se hace constatar que el estudiante con el DNI 42685547 se encuentra cursando Coaching Ejecutivo en nuestra institución. Por lo cual queda corroborado aquí su participación en Axon Training para ser presentada a las autoridades que corresponda.",
-          "nombreImpreso": "Ignacio Gallo",
+          "texto": null,
+          "nombreImpreso": null,
           "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/CERTIFICADO+constancia-03.png",
-          "dni": 42545587
+          "dni": null
 }
         },
 {
@@ -127,7 +127,7 @@
         "activo": 1,
         "error": "",
         "datos": {
-          "texto": "Por la presente se hace constatar que el estudiante Ignacio Gallo con el DNI 42685544 ha completado el dia 20 de Septiembre de 2020 la formación profesional deCoaching Ontológico con una carga horaria de 182 horas.",
+          "texto": null,
           "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/CERTIFICADO+constancia-03.png",
           "nombreImpreso": "Christian Saavedra",
           "dni": null
