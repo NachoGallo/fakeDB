@@ -124,7 +124,7 @@
         },
     {
         "titulo": "Finalizacion de estudios",
-        "activo": 0,
+        "activo": 1,
         "error": "",
         "datos": {
           "texto": "Por la presente se hace constatar que el estudiante Ignacio Gallo con el DNI 42685544 ha completado el dia 20 de Septiembre de 2020 la formación profesional deCoaching Ontológico con una carga horaria de 182 horas.",
