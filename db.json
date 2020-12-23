@@ -47,7 +47,8 @@
             "img": "https://cdn.worldvectorlogo.com/logos/slim.svg",
             "description": "Slim Framework"
          }
-        },
+        }.
+        {
         "MongoDB": {
             "img": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
             "description": "MongoDB"
