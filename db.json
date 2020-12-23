@@ -1,137 +1,44 @@
 {
-    "certificados": [
-      {
-        "titulo": "Certificado Coaching Ejecutivo",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
-          "grupo": 5,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/posgrados/posgrado.png",
-          "profesores": [
-            { "nombre": "Oswaldo Vicente" },
-            { "nombre": "Amalia Ledesma" }
-          ],
-          "titulo": "Coaching Ejecutivo",
-          "fecha": "26 de Diciembre de 2020",
-          "nombreAlumno": "Christian Saavedra",
-          "documento": 42545587
-        }
-      },
-      {
-        "titulo": "Certificado Neo Oratoria",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": "Por haber completado satisfactoriamente el programa de 3 meses de duración con 24 hs de entrenamiento en un programa de Coaching Continue Education de ICF, con 12 CCEUs en Competencias Clave y 12 CCEUs en Desarrollo de Recursos.",
-          "grupo": 0,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/Certificado+de+finalizaci%C3%B3n+de+estudio-01.png",
-          "profesores": [
-            { "nombre": "Oswaldo Vicente" }
-          ],
-          "titulo": "Neo Oratoria",
-          "fecha": "26 de Diciembre de 2020",
-          "nombreAlumno": "Christian Saavedra"
-        }
-      },
-      {
-        "titulo": "Certificado Coaching Jurídico",
-        "activo": 1,
-        "error": "En nuestros registros figura que aún no entregaste el observado",
-        "datos": {
-          "texto": "Por haber completado satisfactoriamente el programa de 3 meses de duración con 24 hs de entrenamiento en un programa de Coaching Continue Education de ICF, con 12 CCEUs en Competencias Clave y 12 CCEUs en Desarrollo de Recursos.",
-          "grupo": 2,
-          "imagen": "https://axont-certificacion.s3.us-east-2.amazonaws.com/cursos-cortos/Oratoria_moderna.png",
-          "profesores": [
-            { "nombre": "Oswaldo Vicente" },
-            { "nombre": "Amalia Ledesma" }
-          ],
-          "titulo": "Neo Oratoria",
-          "fecha": "26 de Mayo de 2020",
-          "nombreAlumno": "Christian Saavedra"
-        }
-      },
-      {
-        "titulo": "Certificado Carrera de Coaching Ontológico",
-        "activo": 1,
-        "error": "En nuestros registros figura que aún no entregaste el observado",
-        "datos": {
-          "texto": "Por haber completado satisfactoriamente el programa de 3 meses de duración con 24 hs de entrenamiento en un programa de Coaching Continue Education de ICF, con 12 CCEUs en Competencias Clave y 12 CCEUs en Desarrollo de Recursos.",
-          "grupo": 1,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_182hs_COACH+LABORAL-01.jpg",
-          "profesores": [
-            { "nombre": "Oswaldo Vicente" },
-            { "nombre": "Amalia Ledesma" }
-          ],
-          "titulo": "Neo Oratoria",
-          "fecha": "26 de Diciembre de 2020",
-          "nombreAlumno": null
-        }
-      },
-        {
-        "titulo": "Certificado Coaching Ejecutivo",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": "Por haber completado el posgrado de Coaching Avanzado de 3 meses de duración, con una carga horaria de 24Hs.",
-          "grupo": 1,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/carrera/DIPLOMA_138+VACIO-01.png",
-          "profesores": [
-            { "nombre": "Oswaldo Vicente" },
-            { "nombre": "Amalia Ledesma" }
-          ],
-          "titulo": "Coaching Ejecutivo",
-          "fecha": "26 de Diciembre de 2020",
-          "nombreAlumno": "Christian Saavedra",
-          "documento": 42545587
-        }
-      }
-    ],
-    
-    "constancias": [
-        {
-        "titulo": "Libre de deuda",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": "Por medio de la presente dejamos constancia que el alumno Ignacio Gallo no registra deuda pendiente con nuestra Institución para la siguiente actividad: Coaching Ejecutivo. Por consiguiente, a su pedido y para ser presentada ante quien corresponda, extendemos la presente constancia.",
-          "nombreImpreso": "Ignacio Gallo",
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/CERTIFICADO+constancia-03.png",
-          "dni": 42545587
-        }
+    "technologies": [
+        "HTML": {
+            "img": "https://www.flaticon.com/svg/static/icons/svg/1051/1051277.svg",
+            "description": "HTML"
         },
-            {
-        "titulo": "Alumno Regular",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": null,
-          "nombreImpreso": null,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/CERTIFICADO+constancia-03.png",
-          "dni": null
-}
+        "CSS": {
+            "img": "https://www.flaticon.com/svg/static/icons/svg/732/732190.svg",
+            "description": "CSS"
         },
-{
-        "titulo": "Certificado de aprobacion",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": null,
-          "nombreImpreso": null,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/CERTIFICADO+constancia-03.png",
-          "dni": 23232323
+        "Bootstrap": {
+            "img": "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
+            "description": "Bootstrap"
         }
+        "JS": {
+            "img": "https://cdn.worldvectorlogo.com/logos/javascript.svg",
+            "description": "Javascript"
         },
-    {
-        "titulo": "Finalizacion de estudios",
-        "activo": 1,
-        "error": "",
-        "datos": {
-          "texto": null,
-          "imagen": "https://axont-certificados-alumnos.s3.us-east-2.amazonaws.com/constancias/CERTIFICADO+constancia-03.png",
-          "nombreImpreso": "Christian Saavedra",
-          "dni": null
+        "NodeJS": {
+            "img": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
+            "description": "NodeJS"
+        },
+        "React": {
+            "img": "https://cdn.worldvectorlogo.com/logos/react.svg",
+            "description": "React"
+        },
+        "PHP": {
+            "img": "https://cdn.worldvectorlogo.com/logos/php-1.svg",
+            "description": "PHP"
+        },
+        "Slim": {
+            "img": "https://cdn.worldvectorlogo.com/logos/slim.svg",
+            "description": "Slim Framework"
+        },
+        "MongoDB": {
+            "img": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+            "description": "MongoDB"
+        },
+        "MySQL": {
+            "img": "https://cdn.worldvectorlogo.com/logos/mysql.svg",
+            "description": "MySQL"
         }
-}
     ]
-  }
+}
