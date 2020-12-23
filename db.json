@@ -1,64 +1,45 @@
 {
     "technologies": [
         {
-        "HTML": {
             "img": "https://www.flaticon.com/svg/static/icons/svg/1051/1051277.svg",
             "description": "HTML"
-         }
         },
+
         {
-        "CSS": {
             "img": "https://www.flaticon.com/svg/static/icons/svg/732/732190.svg",
             "description": "CSS"
-         }
         },
         {
-        "Bootstrap": {
             "img": "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
             "description": "Bootstrap"
-         }
         },
         {
-        "JS": {
             "img": "https://cdn.worldvectorlogo.com/logos/javascript.svg",
             "description": "Javascript"
-         }
         },
         {
-        "NodeJS": {
             "img": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
             "description": "NodeJS"
-         }
         },
         {
-        "React": {
             "img": "https://cdn.worldvectorlogo.com/logos/react.svg",
             "description": "React"
-         }
         },
         {
-        "PHP": {
             "img": "https://cdn.worldvectorlogo.com/logos/php-1.svg",
             "description": "PHP"
-         }
         },
         {
-        "Slim": {
             "img": "https://cdn.worldvectorlogo.com/logos/slim.svg",
             "description": "Slim Framework"
-         }
         },
         {
-        "MongoDB": {
             "img": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
             "description": "MongoDB"
-         }
         },
         {
-        "MySQL": {
             "img": "https://cdn.worldvectorlogo.com/logos/mysql.svg",
             "description": "MySQL"
-         }
         }
     ]
 }
