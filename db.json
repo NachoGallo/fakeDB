@@ -41,5 +41,9 @@
             "img": "https://cdn.worldvectorlogo.com/logos/mysql.svg",
             "description": "MySQL"
         }
-    ]
+    ],
+    
+    "checkout" : {
+        "id" : 99
+    }
 }
